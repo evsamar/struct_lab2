@@ -1,0 +1,5 @@
+﻿  struct_lab2.cpp
+C:\Users\samar\source\repos\struct_lab2\struct_lab2\struct_lab2.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\samar\source\repos\struct_lab2\struct_lab2\struct_lab2.cpp(83,27): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\samar\source\repos\struct_lab2\struct_lab2\struct_lab2.cpp(161,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  struct_lab2.vcxproj -> C:\Users\samar\source\repos\struct_lab2\x64\Debug\struct_lab2.exe
